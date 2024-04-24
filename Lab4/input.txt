@@ -1,0 +1,15 @@
+ACKNOWLEDGEMENTS
+My thesis would only be completed with the help of many people I wish to thank.
+First, I would like to express my gratitude and warm thanks to my external supervisor,
+Mr. Nguyen Le Phuong, who made this work possible. His valuable guidance and expert
+advice throughout the project have significantly contributed to the improvement of the
+thesis.
+The thesis has dramatically benefited from the comments and suggestions made by Dr.
+Nguyen Van Viet. My technical skills and experience gained through this project
+are also thanks to them.
+I would like to thank the technicians at Misoft for their help in offering me excellent
+working conditions with powerful computational resources in running the project.
+Thanks, should also go to my jury member, Dr. Nguyen Van Hoang who has contributed
+to helping me edit and complete this project. Lastly, I thank my family and friends for
+their support during my internship.
+This thesis was written during my internship at Misoft.
