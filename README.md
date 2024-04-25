@@ -11,4 +11,4 @@ Student Info
 
 * Student Name: Nguyễn Thái Dương
 * Student ID: BI12-117
-* Student Group ID: Not-for-now
+* Student Group ID: 11
